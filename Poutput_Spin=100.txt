@@ -1,0 +1,93 @@
+     1000000
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0000000          -1.7455708          0.72486509          0.91133184          0.38243454          0.91133184
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0100000          -1.7382906          0.74720181          0.90799468          0.41680905          0.90799468
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0200000          -1.7306777          0.76494279          0.90443376          0.44843009          0.90443376
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0300000          -1.7229264          0.78615190          0.90073637          0.48659746          0.90073637
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0400000          -1.7150710          0.80751870          0.89692728          0.52710900          0.89692728
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0500000          -1.7068712          0.83259800          0.89281481          0.58283391          0.89281481
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0600000          -1.6981739          0.85656058          0.88830664          0.64169301          0.88830664
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0700000          -1.6896888          0.88268560          0.88398136          0.69363808          0.88398136
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0800000          -1.6807527          0.91054103          0.87913845          0.77917857          0.87913845
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.0900000          -1.6715204          0.94098197          0.87402667          0.87447022          0.87402667
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1000000          -1.6621136          0.96682222          0.86878652          0.94678930          0.86878652
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1100000          -1.6523425          0.99488313          0.86310761           1.0506788          0.86310761
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1200000          -1.6422405           1.0262509          0.85696284           1.1932633          0.85696284
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1300000          -1.6316619           1.0616844          0.85028774           1.3668293          0.85028774
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1400000          -1.6210815           1.0927406          0.84353848           1.5504731          0.84353848
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1500000          -1.6095827           1.1403154          0.83548382           1.8372179          0.83548382
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1600000          -1.5981026           1.1902316          0.82735303           2.1403712          0.82735303
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1700000          -1.5861362           1.2313054          0.81852694           2.5754250          0.81852694
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1800000          -1.5735126           1.2844713          0.80849366           3.0956764          0.80849366
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.1900000          -1.5606229           1.3403298          0.79820952           3.4715947          0.79820952
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2000000          -1.5466589           1.4027130          0.78539012           4.5384019          0.78539012
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2100000          -1.5324135           1.4783813          0.77168933           5.7581010          0.77168933
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2200000          -1.5167394           1.5745395          0.75419646           8.0641303          0.75419646
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2300000          -1.4989047           1.7938638          0.72675674           22.769632          0.72675674
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2400000          -1.4828653           1.8140240          0.70923349           18.083490          0.70923349
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2500000          -1.4624482           2.0598701          0.40989822           41.850233          0.66905681
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2600000          -1.4431841           2.1442724          0.35195436           55.530581          0.63450065
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2700000          -1.4186512           2.4217742         -0.17033272           104.42654          0.56254034
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2800000          -1.3936706           2.5933169        -0.040506774           156.60239          0.47733200
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.2900000          -1.3709797           2.3169644          0.10004223           151.37199          0.40738173
+
+                temp  Energy Expectation       Specific Heat     Mag Expectation        Mag Variance   |Mag Expectation|
+           2.3000000          -1.3487925           2.1186393        0.0041674536           145.28764          0.33461064
